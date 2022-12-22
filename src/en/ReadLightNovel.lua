@@ -1,6 +1,7 @@
 -- {"id":6118,"ver":"2.0.9","libVer":"1.0.0","author":"TechnoJo4","dep":["url>=1.0.0"]}
 
-local baseURL = "https://www.readlightnovel.me"
+local baseURL = "https://www.readlightnovel.me/hub141222"
+
 local qs = Require("url").querystring
  
 local function shrinkURL(url)
